@@ -12,4 +12,6 @@ Please see the notebooks in [Nbviewer](http://nbviewer.jupyter.org/) for better 
 
 * [Week1](http://nbviewer.jupyter.org/github/ehsanmok/Scala-Parallel-Programming/blob/master/week1_summary.ipynb)
 
-* [Week2](http://nbviewer.jupyter.org/github/ehsanmok/Scala-Parallel-Programming/blob/master/week2_summary.ipynb)
+* [Week 2](http://nbviewer.jupyter.org/github/ehsanmok/Scala-Parallel-Programming/blob/master/week2_summary.ipynb)
+
+* [Week 3](http://nbviewer.jupyter.org/github/ehsanmok/Scala-Parallel-Programming/blob/master/week3_summary.ipynb)
